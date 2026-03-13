@@ -1,12 +1,6 @@
 Inventory app
 ==================================
 
-### Screenshots
-
-<p align="center">
-<img src="./res/Screenshot_20260313_050758.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/><img src="./res/Screenshot_20260313_050805.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
-</p>
-
 Introduction
 ------------
 
@@ -15,6 +9,12 @@ This app demonstrated the use of Android Jetpack component [Room](https://develo
 The app also leverages [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
 [Flow](https://developer.android.com/kotlin/flow),
 and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/).
+
+### Screenshots
+
+<p align="center">
+<img src="./res/Screenshot_20260313_050758.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/><img src="./res/Screenshot_20260313_050805.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
+</p>
 
 Pre-requisites
 --------------
