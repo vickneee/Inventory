@@ -1,7 +1,11 @@
 Inventory app
 ==================================
 
-Solution code for Android Basics with Compose.
+### Screenshots
+
+<p align="center">
+<img src="./res/Screenshot_20260313_050758.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/><img src="./res/Screenshot_20260313_050805.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
+</p>
 
 Introduction
 ------------
