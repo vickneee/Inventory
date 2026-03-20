@@ -64,5 +64,6 @@ fun InventoryTopAppBar(
                     )
                 }
             }
-        })
+        }
+    )
 }
