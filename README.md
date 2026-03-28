@@ -28,7 +28,11 @@ and [Navigation](https://developer.android.com/topic/libraries/architecture/navi
 </p>
 
 <p align="center">
-<img src="./res/Screenshot_20260328_145523.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/><img src="./res/Screenshot_20260328_150621.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/>
+<img src="./res/Screenshot_20260328_145523.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/><img src="./res/Screenshot_20260328_145601.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/>
+</p>
+
+<p align="center">
+<img src="./res/Screenshot_20260328_150621.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/>
 </p>
 
 Pre-requisites
