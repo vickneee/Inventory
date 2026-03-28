@@ -24,7 +24,7 @@ and [Navigation](https://developer.android.com/topic/libraries/architecture/navi
 </p>
 
 <p align="center">
-<img src="./res/Screenshot_20260327_221725.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/><img src="./res/Screenshot_20260313_050805.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
+<img src="./res/Screenshot_20260327_221725.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
 </p>
 
 Pre-requisites
