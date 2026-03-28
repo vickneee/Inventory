@@ -43,16 +43,21 @@ fun InventoryNavHost(
     NavHost(
         navController = navController, startDestination = HomeDestination.route, modifier = modifier
     ) {
+
         composable(route = HomeDestination.route) {
-            HomeScreen(navigateToItemEntry = { navController.navigate(ItemEntryDestination.route) },
+            HomeScreen(
+                navigateToItemEntry = { navController.navigate(ItemEntryDestination.route) },
                 navigateToItemUpdate = {
                     navController.navigate("${ItemDetailsDestination.route}/${it}")
                 })
         }
+
         composable(route = ItemEntryDestination.route) {
-            ItemEntryScreen(navigateBack = { navController.popBackStack() },
+            ItemEntryScreen(
+                navigateBack = { navController.popBackStack() },
                 onNavigateUp = { navController.navigateUp() })
         }
+
         composable(
             route = ItemDetailsDestination.routeWithArgs,
             arguments = listOf(navArgument(ItemDetailsDestination.itemIdArg) {
@@ -66,6 +71,7 @@ fun InventoryNavHost(
                 },
                 navigateBack = { navController.navigateUp() })
         }
+
         composable(
             route = ItemEditDestination.routeWithArgs,
             arguments = listOf(navArgument(ItemEditDestination.itemIdArg) {
