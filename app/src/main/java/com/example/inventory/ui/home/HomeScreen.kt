@@ -102,8 +102,7 @@ fun HomeScreen(
         HomeBody(
             itemList = homeUiState.itemList,
             onItemClick = navigateToItemUpdate,
-            modifier = modifier.fillMaxSize(),
-            contentPadding = innerPadding,
+            modifier = Modifier.padding(innerPadding).fillMaxSize(),
         )
     }
 }

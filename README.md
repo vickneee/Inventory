@@ -13,18 +13,18 @@ and [Navigation](https://developer.android.com/topic/libraries/architecture/navi
 ### Screenshots
 
 <p align="center">
-<img src="./res/Screenshot_20260313_050758.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/><img src="./res/Screenshot_20260313_050805.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
+<img src="./res/Screenshot_20260313_050758.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/><img src="./res/Screenshot_20260313_050805.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/>
 </p>
 
 <p align="center">
-<img src="./res/Screenshot_20260327_021856.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
+<img src="./res/Screenshot_20260327_021856.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/>
 
 <p align="center">
-<img src="./res/Screenshot%202026-03-27-2.25.30.png" width="74%" alt="Android Mobile App Screen -Amphibians screen"/>
+<img src="./res/Screenshot%202026-03-27-2.25.30.png" width="74%" alt="Android Mobile App Screen -Inventory screen"/>
 </p>
 
 <p align="center">
-<img src="./res/Screenshot_20260327_221725.png" width="35%" alt="Android Mobile App Screen -Amphibians screen"/>
+<img src="./res/Screenshot_20260327_221725.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/><img src="./res/Screenshot_20260327_221725.png" width="35%" alt="Android Mobile App Screen -Inventory screen"/>
 </p>
 
 Pre-requisites
